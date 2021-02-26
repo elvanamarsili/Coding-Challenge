@@ -1,0 +1,62 @@
+body{
+  background-image: url("background.jpg");
+  background-repeat: no-repeat;
+  background-size: cover;
+  color: white;
+  font-family: 'Poppins', sans-serif;
+}
+
+.container{
+  background-color: rgba(0, 0, 0, 0.6);
+  border-radius: 20px;
+  width: 950px;
+  height: 600px;
+  padding: 80px;
+  margin: auto;
+}
+
+div img{
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 30%;
+  border-top: 50px;
+}
+
+.booleaners > h2{
+  color: #08dc04;
+  text-shadow: 2px 2px 4px #000000;
+  text-align: center;
+}
+
+.buttons{
+  margin: auto;
+  text-align: center;
+  background-color:#08dc04;
+  padding: 7px;
+}
+
+.monopattino{
+  font-size: 20px;
+}
+
+.carica-a{
+width: 250px;
+height: 25px;
+background-color: #f5b453;
+border-radius: 10px;
+}
+
+.carica-b{
+width: 400px;
+height: 25px;
+background-color: green;
+border-radius: 10px;
+}
+
+.carica-c{
+width: 120px;
+height: 25px;
+background-color: #be4141;
+border-radius: 10px;
+}
